@@ -313,7 +313,8 @@ def page(title, body, depth=0, cls=''):
 <title>{e(title)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Special+Elite&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{up}style.css"></head>
+<link rel="stylesheet" href="{up}style.css">
+<script defer src="https://cloud.umami.is/script.js" data-website-id="5d84fd6c-0760-4a0c-a2d0-ffabb82179f5"></script></head>
 <body class="{cls}">
 <header class="strip"><a class="mini-mast" href="{up}index.html">GRAPA</a>
 <nav><a href="{up}index.html#artistas">Artistas</a><a href="{up}index.html#cabeceras">Cabeceras</a><a href="{up}azar.html">Al azar</a>
